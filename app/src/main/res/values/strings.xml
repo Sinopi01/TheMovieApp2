@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TheMovieApp2</string>
+    <string name="movie_review_header">Reviews</string>
+    <string name="movie_review_title">Reviews</string>
+    <string name="title_movie_list">TheMoviesApp2</string>
+    <string name="title_movie_detail">Movie Detail</string>
+    <string name="user_rating_movie">TMDb: %1$s/10</string>
+    <string name="most_popular">Most popular</string>
+    <string name="top_rated">Top rated</string>
+    <string name="title_for_empty_view">No movies</string>
+    <string name="text_for_empty_view">Please check your internet connection</string>
+    <string name="release_date_missing">Release date not available at the moment</string>
+    <string name="add_to_favorites">Add to favorite</string>
+    <string name="watch_trailer">Watch trailer</string>
+    <string name="favorites">Favorites</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
+    <string name="title_for_empty_view_favorites">No Favourite movies</string>
+    <string name="text_for_empty_view_favorites">You can add here your favorite movies</string>
+    <string name="sort_by">Sort by</string>
+    <string name="share_trailer">Hare trailer</string>
+    <string name="THE_MOVIE_DATABASE_API_KEY">TheMovieDatabasepApiKey</string>
+</resources>

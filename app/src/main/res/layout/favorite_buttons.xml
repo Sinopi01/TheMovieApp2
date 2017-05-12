@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="1dp"
+    android:layout_height="1dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ImageButton
+        android:id="@+id/button_remove_from_favorites"
+        android:layout_marginLeft="@dimen/button_normal"
+        app:srcCompat="@android:drawable/btn_star_big_on"
+        android:layout_width="40dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="@dimen/button_vertical_margin"
+        android:background="@android:color/transparent"
+        />
+
+
+    <ImageButton
+        android:id="@+id/button_mark_as_favorite"
+        app:srcCompat="@android:drawable/btn_star_big_off"
+        android:layout_width="40dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="@dimen/button_vertical_margin"
+        android:layout_marginLeft="@dimen/button_pressed"
+        android:background="@android:color/transparent"/>
+
+
+
+</android.support.v7.widget.LinearLayoutCompat>

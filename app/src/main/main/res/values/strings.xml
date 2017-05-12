@@ -1,0 +1,36 @@
+<!--
+  Copyright 2016.  Dmitry Malkovich
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<resources>
+    <string name="app_name">Popular Movies App</string>
+    <string name="movie_review_title">Reviews</string>
+    <string name="title_movie_list">Popular Movies</string>
+    <string name="title_movie_detail">Movie Detail</string>
+    <string name="user_rating_movie">TMDb: %1$s/10</string>
+    <string name="most_popular">Most popular</string>
+    <string name="top_rated">Top rated</string>
+    <string name="title_for_empty_view">No movies</string>
+    <string name="text_for_empty_view">Possible internet connection is missing</string>
+    <string name="release_date_missing">Release date is unknown</string>
+    <string name="add_to_favorites">Mark as favorite</string>
+    <string name="watch_trailer">Watch trailer</string>
+    <string name="favorites">Favorites</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
+    <string name="title_for_empty_view_favorites">No movies</string>
+    <string name="text_for_empty_view_favorites">You can add here your favorite movies</string>
+    <string name="sort_by">Sort by</string>
+    <string name="share_trailer">Share trailer</string>
+    <string name="THE_MOVIE_DATABASE_API_KEY">TheMovieDatabasepApiKey</string>
+</resources>
