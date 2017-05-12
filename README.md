@@ -1,0 +1,2 @@
+# TheMovieApp2
+This is a Movie app that fetches list of Popular and most rated movie… …s from TheMovie DataBase (https://api.themoviedb.org/3/movie/) API. These movies are displayed on a Gridview and shows details of the movies, rating/popularity, movie poster, Star button to add movie to favorite list, movie overview, reviews and trailers to view on Youtube app or webpage.  ..........................................................................................................  API key to fetch movies from Themoviedb.org/ has been hidden for rights purposes.
